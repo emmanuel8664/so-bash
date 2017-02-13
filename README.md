@@ -1,7 +1,7 @@
 Universidad ICESI
 ## Informe Comandos CentOS 
 **Nombre:** 
-**Código:**
+ **Código:**
 
 ### Informe
 El informe se debe entregar en un archivo de formato .md en el fork de sus
