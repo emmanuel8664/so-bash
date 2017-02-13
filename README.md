@@ -1,6 +1,6 @@
 Universidad ICESI
 ## Informe Comandos CentOS 
-**Nombre:**
+**Nombre:** 
 **Código:**
 
 ### Informe
