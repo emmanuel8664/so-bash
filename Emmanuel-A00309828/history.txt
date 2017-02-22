@@ -1,0 +1,398 @@
+    1  ls
+    2  cd /
+    3  ls
+    4  sdsd
+    5  clear
+    6  sas
+    7  pwd
+    8  cd /
+    9  pwd
+   10  cd /
+   11  cd
+   12  pwd
+   13  cd ~
+   14  pwd
+   15  cd /
+   16  pwd
+   17  ls
+   18  ls -l
+   19  ls
+   20  cd
+   21  ls
+   22  ls -l
+   23  cd /desktop
+   24  cd /
+   25  ls
+   26  cd /home
+   27  ls
+   28  cd /emmanuel
+   29  ls
+   30  cd
+   31  ls
+   32  cd /
+   33  ls
+   34  cd /data
+   35  ls
+   36  cd
+   37  cd /tmp
+   38  ls
+   39  ls-l
+   40  ls -l
+   41  ls
+   42  cd /tmp
+   43  ls
+   44  clear
+   45  ls
+   46  ls -l
+   47  cd
+   48  ls
+   49  ls -l
+   50  cd /tmp
+   51  ls -l
+   52  cd
+   53  ls
+   54  ls -l
+   55  cd
+   56  ls
+   57  cd~
+   58  cd ~
+   59  ls
+   60  clear
+   61  pwd
+   62  ls -l
+   63  cd 
+   64  pwd
+   65  cd
+   66  ls
+   67  ls -l
+   68  cd
+   69  ls
+   70  pwd
+   71  ls -l
+   72  cd ~
+   73  ls
+   74  cd /tmp
+   75  ls
+   76  cd /data
+   77  cd /
+   78  ls
+   79  cd /tmp
+   80  ls
+   81  pwd
+   82  cd /media
+   83  ls
+   84  pwd
+   85  cd /home
+   86  ls
+   87  cd /emmanuel
+   88  ls -l
+   89  cd /emmanuel
+   90  cd
+   91  pwd
+   92  ls
+   93  ls -l
+   94  cd /
+   95  ls
+   96  cd init
+   97  cd etc
+   98  ls
+   99  clear
+  100  pwd
+  101  cd /
+  102  ls
+  103  cd /media
+  104  ls
+  105  cd /bin
+  106  ls
+  107  clear
+  108  pwd
+  109  ls
+  110  pwd
+  111  clear
+  112  cd /
+  113  ls
+  114  cd /cache
+  115  cd /lib
+  116  ls
+  117  cd/mnt/c
+  118  cd/mnt
+  119  cd/
+  120  cd /
+  121  ls
+  122  cd /mnt
+  123  ls
+  124  cd /c
+  125  ls
+  126  ls -l
+  127  clear
+  128  cd 
+  129  cd /mnt/c
+  130  ls
+  131  cd /Users
+  132  cd /Windows
+  133  ls -l
+  134  clear
+  135  pwd
+  136  ls
+  137  cd/Windows
+  138  cd /Rtools
+  139  clear
+  140  cd /mnt
+  141  ls
+  142  cd /e
+  143  cd/e
+  144  clear
+  145  cd /mnt/e
+  146  ls
+  147  cd BackUp
+  148  ls
+  149  clear
+  150  cd /mnt
+  151  ls
+  152  cd c
+  153  ls
+  154  cd Users
+  155  ls
+  156  cd PECHIN
+  157  LS
+  158  ls
+  159  cd desktop
+  160  cd /desktop
+  161  ls
+  162  cd Desktop
+  163  ls
+  164  cd terminal
+  165  ls
+  166  cd cli-master
+  167  ls
+  168  cd
+  169  pwd
+  170  clear
+  171  ls
+  172  ls -l
+  173  cd /
+  174  pwd
+  175  ls
+  176  ls -l
+  177  cd /mnt
+  178  ls
+  179  ls -l
+  180  cd /c
+  181  cd c
+  182  pwd
+  183  ls
+  184  pwd
+  185  cd /Windows
+  186  pwd
+  187  cd Windows
+  188  ls
+  189  clear
+  190  pwd
+  191  ls
+  192  pwd
+  193  clear
+  194  cd 
+  195  cd /mnt/e
+  196  ls
+  197  cd terminal
+  198  ls -l
+  199  cd cli-master
+  200  ls
+  201  ls -l
+  202  ls -lt
+  203  ls -ltr
+  204  ll
+  205  clear
+  206  ll
+  207  ls -lh
+  208  ls -lsh
+  209  ls -lhS
+  210  ls-h
+  211  ls -lh
+  212  ls -h
+  213  ls -lh
+  214  ls -lhSr
+  215  du -h -d 1
+  216  pwd
+  217  cd .
+  218  ls
+  219  cd .
+  220  ls
+  221  cd ..
+  222  ls
+  223  cd ...
+  224  du -h -d 1
+  225  cd cli-master
+  226  ls
+  227  du -h -d 1
+  228  cd
+  229  cd /mnd
+  230  ls
+  231  cd /
+  232  ls
+  233  cd /mnt
+  234  ls
+  235  cd e
+  236  ls
+  237  du -h -d 1
+  238  cd BackUp
+  239  ls
+  240  du -h -d 1
+  241  clear
+  242  cd /
+  243  ls
+  244  cd /mnt
+  245  ls
+  246  cd e
+  247  ls
+  248  cd terminal
+  249  mkdir fotos
+  250  ls -l
+  251  clear
+  252  ls -l
+  253  mv imagen1 fotos
+  254  mv imagen1.png fotos
+  255  cd fotos
+  256  ls
+  257  pwd
+  258  mv ./
+  259  clear
+  260  pwd
+  261  mv ..
+  262  ls -l
+  263  cd /
+  264  ls
+  265  cd /mnt
+  266  ls
+  267  cd e
+  268  ls
+  269  cd prueba
+  270  ls
+  271  cd terminal
+  272  ls
+  273  cd fotos
+  274  ls
+  275  clear
+  276  mv ../clear
+  277  clear
+  278  mv ../
+  279  mv ../imagen3.jpg ./
+  280  clear
+  281  ls
+  282  ls -l
+  283  cd
+  284  ls
+  285  cd /mnt
+  286  ls
+  287  cd /e
+  288  cd e
+  289  ls
+  290  pwd
+  291  cd prueba
+  292  ls
+  293  cd terminal
+  294  ls
+  295  cd fotos
+  296  ls
+  297  mv /mnt/e/imagen4.jpg .
+  298  ls 
+  299  mv /mnt/e/*jpg .
+  300  ls
+  301  mv /mnt/e/*jpg ./
+  302  mv ../imagen3.jpg .
+  303  mv /mnt/e/*jpg ./
+  304  mv /mnt/e/*jpg .
+  305  mv /mnt/e/*jpg ./
+  306  clear
+  307  cp ../fotos/imagen1.png .
+  308  cp ../fotos/imagen1.png /mnt/e
+  309  ls
+  310  mv imagen7 imagen77
+  311  mv imagen7.jpg imagen17.jpg 
+  312  ls
+  313  clear
+  314  ls -lh
+  315  touch prueba.txt
+  316  ll
+  317  .-
+  318  ./
+  319  ../
+  320  ls
+  321  cd ../
+  322  ls
+  323  cd fotos
+  324  ls
+  325  cd ./
+  326  ls
+  327  cd .../
+  328  ls
+  329  cd ../
+  330  ls
+  331  echo "asa"
+  332  ls
+  333  cd
+  334  ls
+  335  ls 'l
+  336  ll
+  337  cd /
+  338  ls
+  339  clear
+  340  printenv
+  341  printenv TERM
+  342  VARNAME='valor'
+  343  ls
+  344  ll
+  345  export VARNAME='valor'
+  346  cd /bashrc
+  347  cd bashrc
+  348  ls
+  349  ll
+  350  cd /.bashrc
+  351  cd .bashrc
+  352  cd /.bashrc
+  353  clear
+  354  cd /
+  355  ls
+  356  cd
+  357  ls
+  358  ll
+  359  set
+  360  echo "HOME"
+  361  ls
+  362  ll
+  363  clear
+  364  NOMBRE
+  365  CLEAR
+  366  clear
+  367  NOMBRE_VARIABLE="valor"
+  368  ll
+  369  vim.bashrc
+  370  yum install vim
+  371  sudo apt-get install yum
+  372  apt-get update
+  373  --fix-miss
+  374  clear
+  375  configure
+  376  history
+  377  touch archivo
+  378  history >> archivo
+  379  cat archivo
+  380  pwd
+  381  cp archivo /deskptop
+  382  cd /
+  383  ls
+  384  cd mnt
+  385  ls
+  386  cp archivo /mnt/c
+  387  cp archivo /mnt/c/nuevaCarpeta
+  388  cp archivo /mnt/e/nuevaCarpeta
+  389  clear
+  390  history >> archivo
+  391  cd /
+  392  ls
+  393  cd /mnt
+  394  ls
+  395  cd/ e
+  396  cd e
+  397  history >> archivo
+  398  history >> archivo.txt
